@@ -27,4 +27,4 @@ npm run dev
 
 I am not sure how long this will be up
 
-https://mern-goals-setter.herokuapp.com/
+https://mern-goals-setter.onrender.com/
